@@ -1,0 +1,358 @@
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\Reports\rptChiTieuTheoHangMuc.rpt
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\Reports\rptChiTieuTheoHangMuc.cs
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\QuanLyTaiChinhCaNhan.exe.config
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\QuanLyTaiChinhCaNhan.exe
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\QuanLyTaiChinhCaNhan.pdb
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\CrystalDecisions.Shared.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\log4net.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\Siticone.UI.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\log4net.xml
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.csproj.AssemblyReference.cache
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.csproj.SuggestedBindingRedirects.cache
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.exe.config
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmBaoCaoChiTieuTheoHangMuc.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmDangKy.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmDangNhap.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmDoiMatKhau.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmKhoiPhucMatKhau.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmThongTinCaNhan.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmTimKiem.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmTrangChu.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmXacThuc.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.Properties.Resources.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.csproj.GenerateResource.cache
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.csproj.CoreCompileInputs.cache
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTa.BD392204.Up2Date
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.exe
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.pdb
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmTaoBaoCao.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\Guna.UI2.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmBaoCaoTongThuChi.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyNganSach.frmNganSach.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\CrystalDecisions.Web.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyGiaoDich.frmQuanLyGiaoDich.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyGiaoDich.frmThemGiaoDich.resources
+D:\.net\New folder\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\Reports\rptChiTieuTheoHangMuc.rpt
+D:\.net\New folder\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\Reports\rptTienDoNganSach.rpt
+D:\.net\New folder\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\Reports\rptChiTieuTheoHangMuc.cs
+D:\.net\New folder\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\Reports\rptTienDoNganSach.cs
+D:\.net\New folder\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\QuanLyTaiChinhCaNhan.exe.config
+D:\.net\New folder\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\QuanLyTaiChinhCaNhan.exe
+D:\.net\New folder\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\QuanLyTaiChinhCaNhan.pdb
+D:\.net\New folder\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\.net\New folder\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\.net\New folder\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\.net\New folder\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\CrystalDecisions.Shared.dll
+D:\.net\New folder\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\CrystalDecisions.Web.dll
+D:\.net\New folder\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\.net\New folder\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\log4net.dll
+D:\.net\New folder\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\log4net.xml
+D:\.net\New folder\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.csproj.AssemblyReference.cache
+D:\.net\New folder\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.csproj.SuggestedBindingRedirects.cache
+D:\.net\New folder\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.exe.config
+D:\.net\New folder\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmBaoCaoChiTieuTheoHangMuc.resources
+D:\.net\New folder\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmBaoCaoTienDoNganSach.resources
+D:\.net\New folder\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmTaoBaoCao.resources
+D:\.net\New folder\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyGiaoDich.frmQuanLyGiaoDich.resources
+D:\.net\New folder\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyGiaoDich.frmThemGiaoDich.resources
+D:\.net\New folder\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinh.frmQuanLyDanhMuc.resources
+D:\.net\New folder\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinh.frmThemDanhMuc.resources
+D:\.net\New folder\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmBaoCaoTongThuChi.resources
+D:\.net\New folder\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyNganSach.frmNganSach.resources
+D:\.net\New folder\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmDangKy.resources
+D:\.net\New folder\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmDangNhap.resources
+D:\.net\New folder\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmDoiMatKhau.resources
+D:\.net\New folder\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmKhoiPhucMatKhau.resources
+D:\.net\New folder\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmThongTinCaNhan.resources
+D:\.net\New folder\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmTimKiem.resources
+D:\.net\New folder\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmTrangChu.resources
+D:\.net\New folder\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmXacThuc.resources
+D:\.net\New folder\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.Properties.Resources.resources
+D:\.net\New folder\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.csproj.GenerateResource.cache
+D:\.net\New folder\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.csproj.CoreCompileInputs.cache
+D:\.net\New folder\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTa.BD392204.Up2Date
+D:\.net\New folder\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.exe
+D:\.net\New folder\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.pdb
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan (1)\QuanLyTaiChinhCaNhan\bin\Debug\Reports\rptChiTieuTheoHangMuc.rpt
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan (1)\QuanLyTaiChinhCaNhan\bin\Debug\Reports\rptTienDoNganSach.rpt
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan (1)\QuanLyTaiChinhCaNhan\bin\Debug\Reports\rptChiTieuTheoHangMuc.cs
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan (1)\QuanLyTaiChinhCaNhan\bin\Debug\Reports\rptTienDoNganSach.cs
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan (1)\QuanLyTaiChinhCaNhan\bin\Debug\QuanLyTaiChinhCaNhan.exe.config
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan (1)\QuanLyTaiChinhCaNhan\bin\Debug\QuanLyTaiChinhCaNhan.exe
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan (1)\QuanLyTaiChinhCaNhan\bin\Debug\QuanLyTaiChinhCaNhan.pdb
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan (1)\QuanLyTaiChinhCaNhan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan (1)\QuanLyTaiChinhCaNhan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan (1)\QuanLyTaiChinhCaNhan\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan (1)\QuanLyTaiChinhCaNhan\bin\Debug\CrystalDecisions.Shared.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan (1)\QuanLyTaiChinhCaNhan\bin\Debug\CrystalDecisions.Web.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan (1)\QuanLyTaiChinhCaNhan\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan (1)\QuanLyTaiChinhCaNhan\bin\Debug\Guna.UI2.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan (1)\QuanLyTaiChinhCaNhan\bin\Debug\log4net.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan (1)\QuanLyTaiChinhCaNhan\bin\Debug\Siticone.UI.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan (1)\QuanLyTaiChinhCaNhan\bin\Debug\log4net.xml
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan (1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.csproj.AssemblyReference.cache
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan (1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.csproj.SuggestedBindingRedirects.cache
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan (1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.exe.config
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan (1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmBaoCaoChiTieuTheoHangMuc.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan (1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmBaoCaoTienDoNganSach.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan (1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmTaoBaoCao.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan (1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyGiaoDich.frmQuanLyGiaoDich.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan (1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyGiaoDich.frmThemGiaoDich.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan (1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinh.frmQuanLyDanhMuc.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan (1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinh.frmThemDanhMuc.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan (1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmBaoCaoTongThuChi.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan (1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyNganSach.frmNganSach.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan (1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmDangKy.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan (1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmDangNhap.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan (1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmDoiMatKhau.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan (1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmKhoiPhucMatKhau.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan (1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmThongTinCaNhan.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan (1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmTimKiem.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan (1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmTrangChu.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan (1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmXacThuc.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan (1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.Properties.Resources.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan (1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.csproj.GenerateResource.cache
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan (1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.csproj.CoreCompileInputs.cache
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan (1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTa.BD392204.Up2Date
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan (1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.exe
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan (1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.pdb
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\Reports\rptChiTieuTheoHangMuc.cs
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\QuanLyTaiChinhCaNhan.exe.config
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\QuanLyTaiChinhCaNhan.exe
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\QuanLyTaiChinhCaNhan.pdb
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\CrystalDecisions.Shared.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\CrystalDecisions.Web.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\Guna.UI2.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\log4net.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\Newtonsoft.Json.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\Siticone.UI.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\System.Buffers.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\System.Memory.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\System.Net.Http.Json.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\System.Numerics.Vectors.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\System.Text.Encodings.Web.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\System.Text.Json.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\System.ValueTuple.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\log4net.xml
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\Newtonsoft.Json.xml
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\System.Buffers.xml
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\System.Memory.xml
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\System.Net.Http.Json.xml
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\System.Numerics.Vectors.xml
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\System.Text.Encodings.Web.xml
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\System.Text.Json.xml
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\System.ValueTuple.xml
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.csproj.AssemblyReference.cache
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.csproj.SuggestedBindingRedirects.cache
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.exe.config
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmBaoCaoChiTieuTheoHangMuc.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmTaoBaoCao.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyGiaoDich.frmQuanLyGiaoDich.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyGiaoDich.frmThemGiaoDich.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmBaoCaoTongThuChi.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyNganSach.frmNganSach.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmDangKy.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmDangNhap.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmDoiMatKhau.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmKhoiPhucMatKhau.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmThongTinCaNhan.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmTimKiem.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmTrangChu.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmXacThuc.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.Properties.Resources.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.csproj.GenerateResource.cache
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.csproj.CoreCompileInputs.cache
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTa.BD392204.Up2Date
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.exe
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.pdb
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\Firebase.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\LiteDB.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\System.Reactive.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\Firebase.xml
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\LiteDB.xml
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\System.Reactive.xml
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\Reports\rptTongThuChi.cs
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\Reports\rptChiTieuTheoHangMuc.rpt
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\bin\Debug\Reports\rptTongThuChi.rpt
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmThongKe.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinh.frmQuanLyHangMuc.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan(1)\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinh.frmThemHangMuc.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\Reports\rptTongThuChi.rpt
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\Reports\rptTongThuChi.cs
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\Firebase.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\LiteDB.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\Newtonsoft.Json.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\System.Buffers.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\System.Memory.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\System.Net.Http.Json.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\System.Numerics.Vectors.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\System.Reactive.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\System.Text.Encodings.Web.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\System.Text.Json.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\System.ValueTuple.dll
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\Firebase.xml
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\LiteDB.xml
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\Newtonsoft.Json.xml
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\System.Buffers.xml
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\System.Memory.xml
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\System.Net.Http.Json.xml
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\System.Numerics.Vectors.xml
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\System.Reactive.xml
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\System.Text.Encodings.Web.xml
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\System.Text.Json.xml
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\System.ValueTuple.xml
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmThongKe.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinh.frmQuanLyHangMuc.resources
+D:\ANhư\Study\OfficialDocuments\Y2_S3\.NET\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinh.frmThemHangMuc.resources
+C:\Users\tuyen\OneDrive\Documents\Nhóm 14_Ứng dụng quản lý chi tiêu cá nhân\Nhóm 14_Ứng dụng quản lý chi tiêu cá nhân\Chương trình\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.exe
+C:\Users\tuyen\OneDrive\Documents\Nhóm 14_Ứng dụng quản lý chi tiêu cá nhân\Nhóm 14_Ứng dụng quản lý chi tiêu cá nhân\Chương trình\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.pdb
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.csproj.AssemblyReference.cache
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.csproj.SuggestedBindingRedirects.cache
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.exe.config
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.exe
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.pdb
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\Reports\rptChiTieuTheoHangMuc.rpt
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\Reports\rptTongThuChi.rpt
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\Reports\rptChiTieuTheoHangMuc.cs
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\Reports\rptTongThuChi.cs
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\QuanLyTaiChinhCaNhan.exe.config
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\QuanLyTaiChinhCaNhan.exe
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\QuanLyTaiChinhCaNhan.pdb
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\CrystalDecisions.Shared.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\Firebase.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\LiteDB.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\log4net.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\Newtonsoft.Json.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\System.Buffers.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\System.Memory.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\System.Net.Http.Json.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\System.Numerics.Vectors.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\System.Reactive.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\System.Text.Encodings.Web.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\System.Text.Json.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\System.ValueTuple.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\Firebase.xml
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\LiteDB.xml
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\log4net.xml
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\Newtonsoft.Json.xml
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\System.Buffers.xml
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\System.Memory.xml
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\System.Net.Http.Json.xml
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\System.Numerics.Vectors.xml
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\System.Reactive.xml
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\System.Text.Encodings.Web.xml
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\System.Text.Json.xml
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\System.ValueTuple.xml
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\cs\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\da\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\de\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\en\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\es\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\fi\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\fr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\hu\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\it\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\ja\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\ko\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\nl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\pl\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\pt\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\ru\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\sk\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\sv\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\th\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\tr\CrystalDecisions.CrystalReports.Engine.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\cs\CrystalDecisions.ReportSource.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\da\CrystalDecisions.ReportSource.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\de\CrystalDecisions.ReportSource.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\en\CrystalDecisions.ReportSource.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\es\CrystalDecisions.ReportSource.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\fi\CrystalDecisions.ReportSource.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\fr\CrystalDecisions.ReportSource.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\hu\CrystalDecisions.ReportSource.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\it\CrystalDecisions.ReportSource.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\ja\CrystalDecisions.ReportSource.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\ko\CrystalDecisions.ReportSource.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\nb-NO\CrystalDecisions.ReportSource.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\nl\CrystalDecisions.ReportSource.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\pl\CrystalDecisions.ReportSource.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\pt\CrystalDecisions.ReportSource.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\ru\CrystalDecisions.ReportSource.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\sk\CrystalDecisions.ReportSource.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\sv\CrystalDecisions.ReportSource.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\th\CrystalDecisions.ReportSource.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\tr\CrystalDecisions.ReportSource.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\zh-CHS\CrystalDecisions.ReportSource.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\zh-CHT\CrystalDecisions.ReportSource.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\cs\CrystalDecisions.Shared.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\da\CrystalDecisions.Shared.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\de\CrystalDecisions.Shared.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\en\CrystalDecisions.Shared.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\es\CrystalDecisions.Shared.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\fi\CrystalDecisions.Shared.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\fr\CrystalDecisions.Shared.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\hu\CrystalDecisions.Shared.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\it\CrystalDecisions.Shared.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\ja\CrystalDecisions.Shared.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\ko\CrystalDecisions.Shared.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\nb-NO\CrystalDecisions.Shared.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\nl\CrystalDecisions.Shared.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\pl\CrystalDecisions.Shared.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\pt\CrystalDecisions.Shared.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\ru\CrystalDecisions.Shared.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\sk\CrystalDecisions.Shared.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\sv\CrystalDecisions.Shared.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\th\CrystalDecisions.Shared.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\tr\CrystalDecisions.Shared.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\zh-CHS\CrystalDecisions.Shared.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\bin\Debug\zh-CHT\CrystalDecisions.Shared.resources.dll
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmThongKe.resources
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmBaoCaoChiTieuTheoHangMuc.resources
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmBaoCaoTongThuChi.resources
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmTaoBaoCao.resources
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyGiaoDich.frmQuanLyGiaoDich.resources
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyGiaoDich.frmThemGiaoDich.resources
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinh.frmQuanLyHangMuc.resources
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinh.frmThemHangMuc.resources
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyNganSach.frmNganSach.resources
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmDangKy.resources
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmDangNhap.resources
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmDoiMatKhau.resources
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmKhoiPhucMatKhau.resources
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmThongTinCaNhan.resources
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmTimKiem.resources
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmTrangChu.resources
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.frmXacThuc.resources
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.Properties.Resources.resources
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.csproj.GenerateResource.cache
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTaiChinhCaNhan.csproj.CoreCompileInputs.cache
+C:\QuanLyTaiChinhCaNhan\QuanLyTaiChinhCaNhan\obj\Debug\QuanLyTa.BD392204.Up2Date
